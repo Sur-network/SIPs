@@ -1,5 +1,5 @@
 ### This proposal belongs to:
-## **Real & legal users authentication method.**
+## **Real & legal users authentication method**
 
 
 ### موضوع این طرح پیشنهادی:
